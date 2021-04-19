@@ -1,6 +1,6 @@
 # Internet-Accessbility-by-Wealth-Racial-Lines
 
-<object data="Final-Report.pdf" type="application/pdf" width="100%">
+<object data="Final_Report.pdf" type="application/pdf" width="100%">
 </object>
 
-<embed src="Final-Report.pdf" type="application/pdf">
+<embed src="Final_Report.pdf" type="application/pdf">
