@@ -1,6 +1,6 @@
 # Internet-Accessbility-by-Wealth-Racial-Lines
 
-## Disclaimer: View Final_Report.pdf for more extensive analysis and visualizations.
+## Disclaimer: View `Final_Report.pdf` for more extensive analysis and visualizations.
 
 ## Research Questions
 1. How does digital inequality in access to the internet affect school districts within
