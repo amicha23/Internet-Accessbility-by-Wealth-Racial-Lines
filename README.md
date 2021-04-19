@@ -2,3 +2,5 @@
 
 <object data="Final-Report.pdf" type="application/pdf" width="100%">
 </object>
+
+<embed src=Final-Report.pdf" type="application/pdf">
